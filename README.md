@@ -1,5 +1,4 @@
 # hello-world
-Repositório de boas vindas# hello-world
 Projeto "Aló Mundo"
 
 LINGUAGEM: .NET
